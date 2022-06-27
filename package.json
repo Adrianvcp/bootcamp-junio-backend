@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "dev": "nodemon src/index.ts 3333"
+    "dev": "nodemon src/index.ts 5000"
   },
   "dependencies": {
     "@tsconfig/node16": "^1.0.3",
